@@ -1,2 +1,3 @@
-# Project 1:
+# Nicholas Hoy's portfolio 
+Project 1:
 - Hello world
