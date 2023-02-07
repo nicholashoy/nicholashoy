@@ -1,12 +1,15 @@
 # Nicholas Hoy's project portfolio 
 Project 1: Forecasting Solid Waste Generation using a Bayesian-Optimized Artificial Neural Network with Ensemble Learning for Improved Generalization
-[Show Publication] (https://www.sciencedirect.com/science/article/abs/pii/S0098135422002812)
+[Show Publication](https://www.sciencedirect.com/science/article/abs/pii/S0098135422002812)
 
 - Identified strongly correlated socioeconomic indicators using Pearson correlation analysis for eight waste physical composition to be used as predictors[^1].
+
 ![alt text](https://github.com/nicholashoy/nicholashoy.github.io/blob/main/Picture1.jpg "Correlogram")
 - Developed a novel Bayesian-optimized artificial neural network to concurrently optimize the model's learning rate and number of neurons to achieve minimum prediction error[^2].
+
 ![alt text](https://github.com/nicholashoy/nicholashoy.github.io/blob/main/Picture2.png "Objective function model")
 - Forecasted the solid waste generation based on the ensemble learning approach which shows that the developed model reduces overfitting and forecast uncertainty compared to the default model[^3].
+
 ![alt text](https://github.com/nicholashoy/nicholashoy.github.io/blob/main/Picture3.png "Food waste forecast")
 - Provided policy implications on waste generation based on forecasted outcomes.
 
