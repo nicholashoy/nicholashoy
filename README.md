@@ -1,5 +1,6 @@
 # Nicholas Hoy's project portfolio 
 Project 1: Forecasting Solid Waste Generation using a Bayesian-Optimized Artificial Neural Network with Ensemble Learning for Improved Generalization
+
 [Show Publication](https://www.sciencedirect.com/science/article/abs/pii/S0098135422002812)
 
 - Identified strongly correlated socioeconomic indicators using Pearson correlation analysis for eight waste physical composition to be used as predictors[^1].
