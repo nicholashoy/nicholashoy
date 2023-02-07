@@ -1,4 +1,4 @@
-#[**Project 1**: Forecasting Malaysia's solid waste generation using a Bayesian-optimized artificial neural network with ensemble learning for improved generalization](https://github.com/nicholashoy/forecast-waste-ANN)
+# [**Project 1**: Forecasting Malaysia's solid waste generation using a Bayesian-optimized artificial neural network with ensemble learning for improved generalization](https://github.com/nicholashoy/forecast-waste-ANN)
 
 [_Show Publication_](https://www.sciencedirect.com/science/article/abs/pii/S0098135422002812)
 
@@ -16,4 +16,4 @@
 [^2]: The observed blue points are based on the stochastic predictions of the surrogate model, while the blue asterisk symbol represents the model minimum feasible.
 [^3]: Comparison of the Bayesian-optimized artificial neural network model and the default model at ensembles of 10, 50, 100, and 250 members.
 
-#**Project 2**: Loading
+# **Project 2**: Loading
