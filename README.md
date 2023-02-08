@@ -1,4 +1,4 @@
-## [**Project 1**: Forecasting Malaysia's solid waste generation using a Bayesian-optimized artificial neural network with ensemble learning for improved generalization](https://github.com/nicholashoy/forecast-waste-ANN)
+## [**Project 1:** Forecasting Malaysia's solid waste generation using a Bayesian-optimized artificial neural network with ensemble learning for improved generalization](https://github.com/nicholashoy/forecast-waste-ANN)
 
 [_Show Publication_](https://www.sciencedirect.com/science/article/abs/pii/S0098135422002812)
 
@@ -18,4 +18,16 @@
 
 
 
-## **Project 2**: Loading
+## [**Project 2:** Assessing the global solid waste system's potential in achieving the Paris Agreement 1.5°C and 2°C goals](https://github.com/nicholashoy/forecast-emissions-ANN)
+
+[_Manuscript Currently Under Review_[^4]]
+
+- Performed data collection, cleaning, gap analysis, and imputation on the 43 top solid waste generating, accounting around 86% of the global solid waste generation in 2016.
+- Developed a panel data regression model to fill data gaps for country-specific solid waste generation.
+- Validated the panel data regression model's assumption of homoskedasticity and endogeneity using the heteroskedasticity test and Hausman's test, respectively.
+- Quantified the disaggregated greenhouse gas emissions (i.e., CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O) from the global solid waste system based on each country's waste treatment practices (e.g., incineration, recycling, and landfill) based on the 2006 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gases Inventories with consideration of the 2019 Refinement.
+- Forecasted the disaggregated greenhouse gas emissions of each countries based on the ensemble learning approach using the Bayesian-optimized artificial neural network.
+- Assessed the global solid waste system's global warming impact in achieving the Paris Agreement goals based on the IPCC 6<sup>th</sup> Assessment Report's remaining carbon budget.
+- Analyzed the extent of mitigation required for the global solid waste system to stay within the Paris Agreement temperature limits within 2050.
+
+[^4]: The manuscript is currently undergoing review process. The relevant data and code will be uploaded once the submission process is completed.
