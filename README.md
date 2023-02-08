@@ -26,14 +26,14 @@
 - Performed data collection, cleaning, gap analysis, and imputation on the 43 top solid waste generating, accounting around 86% of the global solid waste generation in 2016.
 - Developed a panel data regression model to fill data gaps for country-specific solid waste generation using EViews 2022.
 
-![](/images/Picture4.svg "Panel data regression")
+![](/images/Picture4.jpg "Panel data regression")
 - Validated the panel data regression model's assumption of homoskedasticity and endogeneity using the heteroskedasticity test and Hausman's test, respectively.
 
-![](/images/Picture5.svg "Actual vs fitted")
+![](/images/Picture5.jpg "Actual vs fitted")
 - Quantified the disaggregated greenhouse gas emissions (i.e., CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O) from the global solid waste system based on each country's waste treatment practices (e.g., incineration, recycling, and landfill) based on the 2006 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gases Inventories with consideration of the 2019 Refinement.
 - Illustrated the global greenhouse gas emissions distribution using a map chart in Tableau and their waste treatment facilities share at different income levels[^5].
 
-![](/images/Picture6.svg "Global greenhouse gas emissions and their waste treatment facilities")
+![](/images/Picture6.jpg "Global greenhouse gas emissions and their waste treatment facilities")
 - Forecasted the disaggregated greenhouse gas emissions of each countries based on the ensemble learning approach using the Bayesian-optimized artificial neural network model.
 - Assessed the global solid waste system's global warming impact in achieving the Paris Agreement goals based on the IPCC 6<sup>th</sup> Assessment Report's remaining carbon budget.
 - Analyzed the extent of mitigation required for the global solid waste system to stay within the Paris Agreement temperature limits within 2050.
