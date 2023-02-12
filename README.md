@@ -38,6 +38,8 @@
 - Assessed the global solid waste system's global warming impact in achieving the Paris Agreement goals based on the [IPCC 6<sup>th</sup> Assessment Report](https://www.ipcc.ch/assessment-report/ar6/)'s remaining carbon budget.
 - Analyzed the extent of mitigation required for the global solid waste system to stay within the Paris Agreement temperature limits within 2050.
 
+----------------------------------------------------------------------------------------------
+
 [^4]: The manuscript is currently undergoing review process. The relevant data and code will be uploaded once the submission process is completed.
 [^5]: MSW stands for municipal solid waste, which is defined by the World Bank as solid waste consisting of everyday items resulting from, or incidental to, residential, commercial, and institutional activities.
 [^6]: (A) shows 2020’s global greenhouse gas emissions from the solid waste system, while (B) shows 2020’s share of solid waste disposal and treatment facilities. HIC: high income countries; UMIC: upper-middle income countries; LMIC: lower-middle income countries; LIC: low income countries.
